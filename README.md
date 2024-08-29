@@ -3,8 +3,6 @@
 
 **abacax6/abacax6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... A personal academic project to buld Charles Babbage's Analytic Machine with Python 3!
 - 🌱 I’m currently learning ... C/Python
 - 📫 How to reach me: @abacax on yt; @abakaax on x; @.abacax on discord; @AbacaX on steam;
