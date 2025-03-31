@@ -5,5 +5,4 @@
 
 - 🔭 I’m currently working on ... A personal academic project to build a Lost-and-found system!
 - 🌱 I’m currently learning ... Java/C/Python
-- 📫 How to reach me: @abacax on yt; @abakaax on x; @.abacax on discord; @AbacaX on steam;
 - ⚡ Fun fact: I am becoming coffee-addicted
