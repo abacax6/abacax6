@@ -1,4 +1,9 @@
-## Hello there 👋
+# Victor 👋
 
+Computer Science student focused on:
+`Cybersecurity` • `Backend` • `Cloud` • `Linux`
 
-**abacax6/abacax6** is a ✨ _special_ ✨ repository.
+Currently building projects at InovaTechJr.
+
+## Tech Stack
+Python • C • Git • Linux • REST APIs
